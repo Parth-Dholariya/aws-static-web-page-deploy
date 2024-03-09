@@ -1,5 +1,5 @@
 # Introduction
-This is a static ecommerce web page deploy on cloud
+This is a static ecommerce web page
 
 Here's how to deploy it on AWS-Linux
 ## Deploy Pre-Requisites
